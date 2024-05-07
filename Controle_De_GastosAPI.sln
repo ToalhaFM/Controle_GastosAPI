@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controle_De_GastosAPI", "Controle_De_GastosAPI\Controle_De_GastosAPI.csproj", "{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle_GastosAPI.Test", "Controle_GastosAPI.Test\Controle_GastosAPI.Test.csproj", "{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498F767A-4105-4259-9A27-A7E539561166}
+	EndGlobalSection
+EndGlobal
