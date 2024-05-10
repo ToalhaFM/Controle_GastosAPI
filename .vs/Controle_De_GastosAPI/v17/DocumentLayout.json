@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}|Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\controle_de_gastosapi\\controle_gastosapi.test\\gastotest\\mockpessoatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}|Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj|solutionrelative:controle_gastosapi.test\\gastotest\\mockpessoatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\services\\pessoaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\services\\pessoaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}|Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_gastosapi.test\\gastotest\\mockexempletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}|Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj|solutionrelative:controle_gastosapi.test\\gastotest\\mockexempletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}|Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_gastosapi.test\\controle_gastosapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C6744541-34E2-4F4D-9662-2BE0ABA6E6E7}|Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj|solutionrelative:controle_gastosapi.test\\controle_gastosapi.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\services\\gastoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\services\\gastoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,24 +11,16 @@
       "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\models\\dinheiro_gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\services\\bancoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\controle_de_gastosapi\\controle_de_gastosapi\\interface\\igastosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\interface\\igastosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\interface\\ibancoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\interface\\ibancoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\controle_de_gastosapi\\controle_de_gastosapi\\services\\bancoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\services\\bancoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\models\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\models\\repositorypatterncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\models\\repositorypatterncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\controle_de_gastosapi\\controle_de_gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6C32C2F1-C7F6-4BF4-8367-8DD2595346AF}|Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj|solutionrelative:controle_de_gastosapi\\controle_de_gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,170 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MockPessoaTest.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_GastosAPI.Test\\GastoTest\\MockPessoaTest.cs",
-              "RelativeDocumentMoniker": "Controle_GastosAPI.Test\\GastoTest\\MockPessoaTest.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_GastosAPI.Test\\GastoTest\\MockPessoaTest.cs",
-              "RelativeToolTip": "Controle_GastosAPI.Test\\GastoTest\\MockPessoaTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA4AAAA",
+              "DocumentIndex": 2,
+              "Title": "IGastosServices.cs",
+              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Interface\\IGastosServices.cs",
+              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Interface\\IGastosServices.cs",
+              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Interface\\IGastosServices.cs",
+              "RelativeToolTip": "Controle_De_GastosAPI\\Interface\\IGastosServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T12:12:22.422Z",
+              "WhenOpened": "2024-05-10T13:41:02.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MockExempleTest.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_GastosAPI.Test\\GastoTest\\MockExempleTest.cs",
-              "RelativeDocumentMoniker": "Controle_GastosAPI.Test\\GastoTest\\MockExempleTest.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_GastosAPI.Test\\GastoTest\\MockExempleTest.cs",
-              "RelativeToolTip": "Controle_GastosAPI.Test\\GastoTest\\MockExempleTest.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T11:52:37.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GastoServices.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\GastoServices.cs",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Services\\GastoServices.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\GastoServices.cs",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Services\\GastoServices.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T01:56:56.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PessoaServices.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\PessoaServices.cs",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Services\\PessoaServices.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\PessoaServices.cs",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Services\\PessoaServices.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T23:06:17.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Controle_GastosAPI.Test",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj",
-              "RelativeDocumentMoniker": "Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj",
-              "RelativeToolTip": "Controle_GastosAPI.Test\\Controle_GastosAPI.Test.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-01T11:03:17.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Program.cs",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T23:08:13.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Repository\\Repository.cs",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Repository\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T23:06:18.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dinheiro_Gasto.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T12:06:29.548Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RepositoryPatternContext.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\RepositoryPatternContext.cs",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Models\\RepositoryPatternContext.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\RepositoryPatternContext.cs",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Models\\RepositoryPatternContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T03:23:39.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Banco.cs",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\Banco.cs",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Models\\Banco.cs",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\Banco.cs",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Models\\Banco.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T03:25:01.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\appsettings.json",
-              "RelativeToolTip": "Controle_De_GastosAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-30T23:09:27.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "BancoServices.cs",
               "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\BancoServices.cs",
               "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Services\\BancoServices.cs",
               "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\BancoServices.cs",
               "RelativeToolTip": "Controle_De_GastosAPI\\Services\\BancoServices.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T23:06:19.441Z"
+              "WhenOpened": "2024-04-30T23:06:19.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Controle_De_GastosAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj",
-              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj",
-              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj",
-              "RelativeToolTip": "Controle_De_GastosAPI\\Controle_De_GastosAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-30T23:06:19.299Z"
+              "DocumentIndex": 3,
+              "Title": "IBancoServices.cs",
+              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Interface\\IBancoServices.cs",
+              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Interface\\IBancoServices.cs",
+              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Interface\\IBancoServices.cs",
+              "RelativeToolTip": "Controle_De_GastosAPI\\Interface\\IBancoServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:31:14.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GastoServices.cs",
+              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\GastoServices.cs",
+              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Services\\GastoServices.cs",
+              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Services\\GastoServices.cs",
+              "RelativeToolTip": "Controle_De_GastosAPI\\Services\\GastoServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T01:56:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dinheiro_Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
+              "RelativeDocumentMoniker": "Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
+              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Controle_De_GastosAPI\\Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
+              "RelativeToolTip": "Controle_De_GastosAPI\\Models\\Dinheiro_Gasto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:06:29.548Z",
+              "EditorCaption": ""
             }
           ]
         }

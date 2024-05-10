@@ -1,40 +1,51 @@
 ﻿using Controle_De_GastosAPI.Interface;
 using Controle_De_GastosAPI.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Controle_De_GastosAPI.Services
 {
-    public class BancoServices
+    public class BancoServices : IBancoServices
     {
-        private readonly IRepository<Banco> _bancoRepository;
+        private readonly RepositoryPatternContext _Context;
+        private DbSet<Banco> _bancoSet;
 
-        public BancoServices(IRepository<Banco> bancoRepository)
+        public BancoServices(RepositoryPatternContext context)
         {
-            _bancoRepository = bancoRepository;
+            _Context = context;
         }
 
-        public void AdicionarBanco(Banco banco)
+        public void AdicionaBanco(Banco banco)
         {
-            _bancoRepository.Add(banco);
+            _Context.Banco.Add(banco);
+            _Context.SaveChanges();
         }
 
-        public void AtualizarBanco(Banco banco)
+        public void AtualizaBanco(Banco banco)
         {
-            _bancoRepository.Update(banco);
+            _Context.Banco.Update(banco);
+            _Context.SaveChanges();
         }
 
-        public void ExcluirBanco(Banco banco)
+        public void DeletaBanco(int id)
         {
-            _bancoRepository.Delete(banco); 
+            var Del = _Context.Banco.FirstOrDefault(x => x.Id == id);
+            if (Del != null) 
+            {
+                _Context.Banco.Remove(Del);
+                _Context.SaveChanges();
+            }
         }
 
-        public Banco ProcuraBanco(int BancoId)
+        public async Task<IEnumerable<Banco>> ListaBanco()
         {
-            return _bancoRepository.GetById(BancoId);
+            var Ban = await _Context.Banco.ToListAsync();
+            return Ban;
         }
 
-        public IEnumerable<Banco> GetBancoList()
+        public async Task<Banco> ProcuraIdBanco(int id)
         {
-            return _bancoRepository.GetAll();
+            var Mostra = await _Context.Banco.FirstOrDefaultAsync(x => x.Id == id);
+            return Mostra;
         }
     }
 }

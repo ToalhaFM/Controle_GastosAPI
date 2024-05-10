@@ -1,40 +1,65 @@
 ﻿using Controle_De_GastosAPI.Interface;
 using Controle_De_GastosAPI.Models;
+using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Controle_De_GastosAPI.Services
 {
-    public class PessoaServices
+    public class PessoaServices : IPessoaService
     {
-        private readonly IRepository<Pessoa> _pessoaRepository;
 
-        public PessoaServices(IRepository<Pessoa> pessoaRepository)
+        private readonly RepositoryPatternContext _Context;
+        private DbSet<Pessoa> _PessoaSet;
+
+
+        public PessoaServices(RepositoryPatternContext context)
         {
-            _pessoaRepository = pessoaRepository;
+            _Context = context;
+            
         }
 
-        public void AdionarPessoa(Pessoa pessoa)
+        public async Task<IActionResult> AdicionaPessoa(Pessoa pessoa)
         {
-            _pessoaRepository.Add(pessoa);
+            await _Context.Pessoa.AddAsync(pessoa);
+            await _Context.SaveChangesAsync();
+            return new CreatedAtActionResult(nameof(Pessoa), "Pessoa", new
+            {
+                id = pessoa.Id
+            }, pessoa);
         }
 
-        public void AtualizandoPessoa(Pessoa pessoa)
+        public void AtualizaPessoa(Pessoa pessoa)
         {
-            _pessoaRepository.Update(pessoa);
+            _Context.Pessoa.Update(pessoa);
+            _Context.SaveChanges();
         }
 
-        public void ExcluindoPessoa(Pessoa pessoa)
+        public void DeletaPessoa(int id)
         {
-            _pessoaRepository.Delete(pessoa);
+            var primario =  _Context.Pessoa.FirstOrDefault(p => p.Id == id);
+            _Context.Remove<Pessoa>(primario);
+            _Context.SaveChanges(true);
+
+            
         }
 
-        public Pessoa ProcuraId(int procuraId)
+        public async Task<IEnumerable<Pessoa>> Lista()
         {
-            return _pessoaRepository.GetById(procuraId);
+            var ip = await _Context.Pessoa.ToListAsync();
+            return ip;
         }
 
-        public IEnumerable<Pessoa> ListarPessoa()
+        public Pessoa ProcurarID(int ID)
         {
-            return _pessoaRepository.GetAll(); 
+            var person =  _Context.Pessoa.FirstOrDefault(c => c.Id == ID);
+            return person;
+        }
+
+        void IPessoaService.AdicionaPessoa(Pessoa pessoa)
+        {
+            _Context.Pessoa.Add(pessoa);
+            _Context.SaveChanges();
         }
     }
 }

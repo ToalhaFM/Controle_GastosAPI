@@ -3,38 +3,33 @@ using Controle_De_GastosAPI.Models;
 
 namespace Controle_De_GastosAPI.Services
 {
-    public class GastoServices
+    public class GastoServices : IGastosServices
     {
-        private readonly IRepository<Dinheiro_Gasto> _service;
+        private readonly RepositoryPatternContext _Context;
 
-        public GastoServices(IRepository<Dinheiro_Gasto> service)
+        public GastoServices(RepositoryPatternContext context)
         {
-            _service = service;
+            _Context = context;
         }
 
-        public void AddGastos(Dinheiro_Gasto gastos)
+        public void AtualizaGasto(Dinheiro_Gasto val)
         {
-            _service.Add(gastos);
+            throw new NotImplementedException();
         }
 
-        public void ExcluirGastos(Dinheiro_Gasto excluir)
+        public string Compra(Dinheiro_Gasto val)
         {
-            _service.Delete(excluir);
+            throw new NotImplementedException();
         }
 
-        public void AtualizaGastos(Dinheiro_Gasto Up) 
+        public Task<IEnumerable<Dinheiro_Gasto>> ListarCompra()
         {
-            _service.Update(Up);
+            throw new NotImplementedException();
         }
 
-        public IEnumerable<Dinheiro_Gasto> ListarGastos()
+        public Task<Dinheiro_Gasto> ProcurarIdCompra(int id)
         {
-            return _service.GetAll();
-        }
-
-        public Dinheiro_Gasto Get(int id)
-        {
-            return _service.GetById(id);
+            throw new NotImplementedException();
         }
     }
 }
